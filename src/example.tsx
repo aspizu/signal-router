@@ -1,7 +1,3 @@
-# signal-router
-Signal based type-safe routing for React and Preact.
-
-```tsx
 import type {Signal} from "@preact/signals"
 import {location} from "./location"
 import {Parameter} from "./route"
@@ -42,4 +38,3 @@ function App() {
 		default: () => <h1>404 - Not found</h1>,
 	})
 }
-```

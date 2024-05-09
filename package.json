@@ -1,0 +1,6 @@
+{
+  "dependencies": { "@preact/compat": "^17.1.2", "@preact/signals": "^1.2.3", "preact": "^10.21.0" },
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}
